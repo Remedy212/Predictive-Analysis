@@ -167,5 +167,7 @@ modelling approaches can be considered.
 
 Future research in car price prediction should focus on enhancing the robustness and generalizability of findings. This can be achieved simply by increasing the sample size to improve statistical power and enable broader generalization. Additionally, employing advanced statistical techniques specifically designed to address heteroscedasticity would enhance the accuracy of the analysis.
 
+<img width="640" height="275" alt="Screenshot 2026-05-02 140714" src="https://github.com/user-attachments/assets/fa69c52b-02d6-4b83-9347-38ce08123f9e" />
+
 
 
